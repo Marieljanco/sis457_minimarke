@@ -1,0 +1,15 @@
+﻿CREATE DATABASE LabMinimarke;
+
+USE [master]
+GO
+CREATE LOGIN [usrminim] WITH PASSWORD=N'123456',
+DEFAULT_DATABASE=[LabMinimarke],
+CHECK_EXPIRATION=OFF,
+CHECK_POLICY=ON
+GO
+USE [LabMinimarke]
+GO
+CREATE USER [usrminim] FOR LOGIN [usrminim]
+GO
+ALTER ROLE [db_owner] ADD MEMBER [usrminim]
+GO
