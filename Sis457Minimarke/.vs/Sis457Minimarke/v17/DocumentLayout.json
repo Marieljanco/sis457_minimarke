@@ -1,116 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{49DDBFFD-FDF0-4FA1-80CA-AA8A12C63C78}|CadMinimarke\\CadMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cadminimarke\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{49DDBFFD-FDF0-4FA1-80CA-AA8A12C63C78}|CadMinimarke\\CadMinimarke.csproj|solutionrelative:cadminimarke\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E9A7DF-8A20-4C39-A039-5F6CCAF36E8E}|CpMinimarke\\CpMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cpminimarke\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C6E9A7DF-8A20-4C39-A039-5F6CCAF36E8E}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DDBFFD-FDF0-4FA1-80CA-AA8A12C63C78}|CadMinimarke\\CadMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cadminimarke\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{49DDBFFD-FDF0-4FA1-80CA-AA8A12C63C78}|CadMinimarke\\CadMinimarke.csproj|solutionrelative:cadminimarke\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\base de datos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base de datos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\base de datos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base de datos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\base de datos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base de datos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\Form1.cs",
-              "RelativeDocumentMoniker": "CpMinimarke\\Form1.cs",
-              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CpMinimarke\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:07:01.27Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\packages.config",
-              "RelativeDocumentMoniker": "CadMinimarke\\packages.config",
-              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\packages.config",
-              "RelativeToolTip": "CadMinimarke\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-22T15:30:03.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.Config",
-              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\App.Config",
-              "RelativeDocumentMoniker": "CadMinimarke\\App.Config",
-              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\App.Config",
-              "RelativeToolTip": "CadMinimarke\\App.Config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-21T02:47:33.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "base de datos.sql ",
-              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\base de datos.sql",
-              "RelativeDocumentMoniker": "base de datos.sql",
-              "ToolTip": "base de datos.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-20T21:23:32.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "SQLQuery1.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-20T21:09:34.416Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
