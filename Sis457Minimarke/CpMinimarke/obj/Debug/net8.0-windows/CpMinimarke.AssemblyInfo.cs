@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CpMinimarke")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb52cd1519f2ba78c7892a6bd0356765fca258e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a0a8e9e89c7b145874a7a55f69d705f4c87dd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CpMinimarke")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CpMinimarke")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
