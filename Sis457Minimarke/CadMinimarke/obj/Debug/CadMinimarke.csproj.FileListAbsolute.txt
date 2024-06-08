@@ -1,0 +1,12 @@
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\CadMinimarke.dll.config
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\CadMinimarke.dll
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\CadMinimarke.pdb
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\EntityFramework.dll
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\EntityFramework.SqlServer.dll
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\EntityFramework.xml
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\EntityFramework.SqlServer.xml
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.csproj.AssemblyReference.cache
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.csproj.CoreCompileInputs.cache
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinim.A97C52CA.Up2Date
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.dll
+D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.pdb

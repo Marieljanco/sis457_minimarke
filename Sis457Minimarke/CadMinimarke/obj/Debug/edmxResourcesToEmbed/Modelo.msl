@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LabMinimarkeModelStoreContainer" CdmEntityContainer="LabMinimarkeEntities">
+    <EntitySetMapping Name="Cliente">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="cedulaIdentidad" ColumnName="cedulaIdentidad" />
+          <ScalarProperty Name="nombres" ColumnName="nombres" />
+          <ScalarProperty Name="primerApellido" ColumnName="primerApellido" />
+          <ScalarProperty Name="segundoApellido" ColumnName="segundoApellido" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Compra">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.Compra">
+        <MappingFragment StoreEntitySet="Compra">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idProveedor" ColumnName="idProveedor" />
+          <ScalarProperty Name="transaccion" ColumnName="transaccion" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CompraDetalle">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.CompraDetalle">
+        <MappingFragment StoreEntitySet="CompraDetalle">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idCompra" ColumnName="idCompra" />
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="precioUnitario" ColumnName="precioUnitario" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Empleado">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.Empleado">
+        <MappingFragment StoreEntitySet="Empleado">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="cedulaIdentidad" ColumnName="cedulaIdentidad" />
+          <ScalarProperty Name="nombres" ColumnName="nombres" />
+          <ScalarProperty Name="primerApellido" ColumnName="primerApellido" />
+          <ScalarProperty Name="segundoApellido" ColumnName="segundoApellido" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="cargo" ColumnName="cargo" />
+          <ScalarProperty Name="celular" ColumnName="celular" />
+          <ScalarProperty Name="correoElectronico" ColumnName="correoElectronico" />
+          <ScalarProperty Name="salario" ColumnName="salario" />
+          <ScalarProperty Name="fechaContratacion" ColumnName="fechaContratacion" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Inventario">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.Inventario">
+        <MappingFragment StoreEntitySet="Inventario">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="idProveedor" ColumnName="idProveedor" />
+          <ScalarProperty Name="idEmpleado" ColumnName="idEmpleado" />
+          <ScalarProperty Name="cantidadStock" ColumnName="cantidadStock" />
+          <ScalarProperty Name="fechaUltimaRepocision" ColumnName="fechaUltimaRepocision" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producto">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="precioVenta" ColumnName="precioVenta" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Proveedor">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.Proveedor">
+        <MappingFragment StoreEntitySet="Proveedor">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="nombreEmpresa" ColumnName="nombreEmpresa" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="celular" ColumnName="celular" />
+          <ScalarProperty Name="correoElectronico" ColumnName="correoElectronico" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idEmpleado" ColumnName="idEmpleado" />
+          <ScalarProperty Name="usuario1" ColumnName="usuario" />
+          <ScalarProperty Name="clave" ColumnName="clave" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Venta">
+      <EntityTypeMapping TypeName="LabMinimarkeModel.Venta">
+        <MappingFragment StoreEntitySet="Venta">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+          <ScalarProperty Name="idEmpleado" ColumnName="idEmpleado" />
+          <ScalarProperty Name="transaccion" ColumnName="transaccion" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="paProductoListar" FunctionName="LabMinimarkeModel.Store.paProductoListar">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="LabMinimarkeModel.paProductoListar_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="precioVenta" ColumnName="precioVenta" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

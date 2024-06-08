@@ -29,7 +29,7 @@ namespace ClnMinimarke
                 existente.descripcion = producto.descripcion;
                 existente.categoria = producto.categoria;
                 existente.precioVenta = producto.precioVenta;
-                //existente.usuarioRegistro = producto.usuarioRegistro;
+                existente.usuarioRegistro = producto.usuarioRegistro;
                 return context.SaveChanges();
             }
         }

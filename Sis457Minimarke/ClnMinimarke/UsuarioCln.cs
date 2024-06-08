@@ -14,7 +14,7 @@ namespace ClnMinimarke
             using (var context = new LabMinimarkeEntities())
             {
                 return context.Usuario
-                    .Where(x => x.usuario == usuario && x.clave == clave)
+                    .Where(x => x.usuario1 == usuario && x.clave == clave)
                     .FirstOrDefault();
             }
         }
