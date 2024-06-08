@@ -12,25 +12,19 @@ namespace CadMinimarke
     using System;
     using System.Collections.Generic;
     
-    public partial class Proveedor
+    public partial class CompraDetalle
     {
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Proveedor()
-        {
-            this.Compra = new HashSet<Compra>();
-        }
-    
         public int id { get; set; }
-        public string nombre { get; set; }
-        public string nombreEmpresa { get; set; }
-        public string direccion { get; set; }
-        public long celular { get; set; }
-        public string correoElectronico { get; set; }
+        public int idCompra { get; set; }
+        public int idProducto { get; set; }
+        public decimal cantidad { get; set; }
+        public decimal precioUnitario { get; set; }
+        public decimal total { get; set; }
         public string usuarioRegistro { get; set; }
         public System.DateTime fechaRegistro { get; set; }
         public short estado { get; set; }
     
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Compra> Compra { get; set; }
+        public virtual Compra Compra { get; set; }
+        public virtual Producto Producto { get; set; }
     }
 }

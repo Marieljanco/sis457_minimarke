@@ -14,6 +14,14 @@ namespace CadMinimarke
     
     public partial class Empleado
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Empleado()
+        {
+            this.Inventario = new HashSet<Inventario>();
+            this.Usuario = new HashSet<Usuario>();
+            this.Venta = new HashSet<Venta>();
+        }
+    
         public int id { get; set; }
         public string cedulaIdentidad { get; set; }
         public string nombres { get; set; }
@@ -25,5 +33,15 @@ namespace CadMinimarke
         public string correoElectronico { get; set; }
         public string salario { get; set; }
         public System.DateTime fechaContratacion { get; set; }
+        public string usuarioRegistro { get; set; }
+        public System.DateTime fechaRegistro { get; set; }
+        public short estado { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Inventario> Inventario { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Usuario> Usuario { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Venta> Venta { get; set; }
     }
 }

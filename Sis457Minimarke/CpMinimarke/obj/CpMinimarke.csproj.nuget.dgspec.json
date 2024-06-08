@@ -4,21 +4,6 @@
     "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj": {}
   },
   "projects": {
-    "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj",
-        "projectName": "CadMinimarke",
-        "projectPath": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
     "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj": {
       "restore": {
         "projectUniqueName": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj",
@@ -26,11 +11,7 @@
         "projectPath": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj",
         "frameworks": {
           "net48": {
-            "projectReferences": {
-              "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj": {
-                "projectPath": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         }
       },
@@ -62,9 +43,6 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj": {
-                "projectPath": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj"
-              },
               "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj": {
                 "projectPath": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj"
               }

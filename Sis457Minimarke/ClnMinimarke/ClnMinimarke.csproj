@@ -43,6 +43,9 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Entity.Design" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -61,7 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CadMinimarke\CadMinimarke.csproj">
-      <Project>{49ddbffd-fdf0-4fa1-80ca-aa8a12c63c78}</Project>
+      <Project>{7243ee4a-bae2-446d-a341-e8322a50066c}</Project>
       <Name>CadMinimarke</Name>
     </ProjectReference>
   </ItemGroup>

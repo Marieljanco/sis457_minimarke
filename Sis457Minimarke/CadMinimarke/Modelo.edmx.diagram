@@ -4,13 +4,25 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="c1f05a4568f34a1eb8409ee0c0ac11a7" Name="Diagram1">
-        <EntityTypeShape EntityType="LabMinimarkeModel.Cliente" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="LabMinimarkeModel.Empleado" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="LabMinimarkeModel.Inventario" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="LabMinimarkeModel.Producto" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="LabMinimarkeModel.Proveedor" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="LabMinimarkeModel.Venta" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+      <Diagram DiagramId="4ddb62d0042f4745aaabd6427bd6bc73" Name="Diagram1" ZoomLevel="47">
+        <EntityTypeShape EntityType="LabMinimarkeModel.Cliente" Width="1.5" PointX="3.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabMinimarkeModel.Compra" Width="1.5" PointX="0.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabMinimarkeModel.CompraDetalle" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabMinimarkeModel.Empleado" Width="1.5" PointX="7.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabMinimarkeModel.Inventario" Width="1.5" PointX="8.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabMinimarkeModel.Producto" Width="1.5" PointX="4.875" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabMinimarkeModel.Proveedor" Width="1.5" PointX="0.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabMinimarkeModel.Usuario" Width="1.5" PointX="7.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabMinimarkeModel.Venta" Width="1.5" PointX="4.375" PointY="5.75" IsExpanded="true" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_Venta_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_Compra_Proveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_CompraDetalle_Compra" ManuallyRouted="false" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_CompraDetalle_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_Inventario_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_Usuario_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_Venta_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_Inventario_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="LabMinimarkeModel.fk_Venta_Producto" ManuallyRouted="false" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

@@ -16,8 +16,12 @@ namespace CadMinimarke
     {
         public int id { get; set; }
         public int idProducto { get; set; }
+        public int idProveedor { get; set; }
         public int idEmpleado { get; set; }
         public int cantidadStock { get; set; }
         public System.DateTime fechaUltimaRepocision { get; set; }
+    
+        public virtual Empleado Empleado { get; set; }
+        public virtual Producto Producto { get; set; }
     }
 }

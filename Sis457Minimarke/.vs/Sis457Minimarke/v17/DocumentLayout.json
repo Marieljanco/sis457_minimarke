@@ -1,12 +1,92 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7243EE4A-BAE2-446D-A341-E8322A50066C}|CadMinimarke\\CadMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cadminimarke\\modelo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7243EE4A-BAE2-446D-A341-E8322A50066C}|CadMinimarke\\CadMinimarke.csproj|solutionrelative:cadminimarke\\modelo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9A7DF-8A20-4C39-A039-5F6CCAF36E8E}|CpMinimarke\\CpMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cpminimarke\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6E9A7DF-8A20-4C39-A039-5F6CCAF36E8E}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\SQLQuery1ofi.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1ofi.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9A7DF-8A20-4C39-A039-5F6CCAF36E8E}|CpMinimarke\\CpMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cpminimarke\\cpminimarke.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6E9A7DF-8A20-4C39-A039-5F6CCAF36E8E}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\cpminimarke.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\SQLQuery1ofi.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1ofi.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sis\\sis457_minimarke\\Sis457Minimarke\\SQLQuery1ofi.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1ofi.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modelo.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\Modelo.edmx",
+              "RelativeDocumentMoniker": "CadMinimarke\\Modelo.edmx",
+              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\Modelo.edmx [Diagram1]",
+              "RelativeToolTip": "CadMinimarke\\Modelo.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-08T06:13:46.899Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CpMinimarke",
+              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj",
+              "RelativeDocumentMoniker": "CpMinimarke\\CpMinimarke.csproj",
+              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj",
+              "RelativeToolTip": "CpMinimarke\\CpMinimarke.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T05:56:41.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\Form1.cs",
+              "RelativeDocumentMoniker": "CpMinimarke\\Form1.cs",
+              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CpMinimarke\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:51:38.548Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1ofi.sql ",
+              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\SQLQuery1ofi.sql",
+              "RelativeDocumentMoniker": "SQLQuery1ofi.sql",
+              "ToolTip": "SQLQuery1ofi.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T22:19:53.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
