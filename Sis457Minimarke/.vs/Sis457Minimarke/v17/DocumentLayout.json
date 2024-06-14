@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\",
+  "WorkspaceRootPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2166ADA1-7064-499A-81F6-993787DAEE72}|CpMinimarke\\CpMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cpminimarke\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2166ADA1-7064-499A-81F6-993787DAEE72}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0284EE22-C7CC-4009-BA45-A42FF5B41147}|CpMinimarke\\CpMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\cpminimarke\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0284EE22-C7CC-4009-BA45-A42FF5B41147}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2166ADA1-7064-499A-81F6-993787DAEE72}|CpMinimarke\\CpMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cpminimarke\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2166ADA1-7064-499A-81F6-993787DAEE72}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2166ADA1-7064-499A-81F6-993787DAEE72}|CpMinimarke\\CpMinimarke.csproj|d:\\sis\\sis457_minimarke\\sis457minimarke\\cpminimarke\\cpminimarke.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2166ADA1-7064-499A-81F6-993787DAEE72}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\cpminimarke.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0284EE22-C7CC-4009-BA45-A42FF5B41147}|CpMinimarke\\CpMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\cpminimarke\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0284EE22-C7CC-4009-BA45-A42FF5B41147}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmProducto.cs",
-              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\FrmProducto.cs",
-              "RelativeDocumentMoniker": "CpMinimarke\\FrmProducto.cs",
-              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\FrmProducto.cs",
-              "RelativeToolTip": "CpMinimarke\\FrmProducto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T08:58:10.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CpMinimarke",
-              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj",
-              "RelativeDocumentMoniker": "CpMinimarke\\CpMinimarke.csproj",
-              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj",
-              "RelativeToolTip": "CpMinimarke\\CpMinimarke.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-08T07:50:19.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\FrmProducto.cs",
-              "RelativeDocumentMoniker": "CpMinimarke\\FrmProducto.cs",
-              "ToolTip": "D:\\sis\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\FrmProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CpMinimarke\\FrmProducto.cs [Dise\u00F1o]",
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\App.config",
+              "RelativeDocumentMoniker": "CpMinimarke\\App.config",
+              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\App.config",
+              "RelativeToolTip": "CpMinimarke\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-14T23:03:50.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\Form1.cs",
+              "RelativeDocumentMoniker": "CpMinimarke\\Form1.cs",
+              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CpMinimarke\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T07:09:36.129Z",
+              "WhenOpened": "2024-06-14T23:02:04.778Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

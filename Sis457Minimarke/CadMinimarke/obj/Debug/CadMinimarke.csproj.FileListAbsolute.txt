@@ -10,3 +10,15 @@ D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.cspr
 D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinim.A97C52CA.Up2Date
 D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.dll
 D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.pdb
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\CadMinimarke.dll.config
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\CadMinimarke.dll
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\CadMinimarke.pdb
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\EntityFramework.dll
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\EntityFramework.SqlServer.dll
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\EntityFramework.xml
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\bin\Debug\EntityFramework.SqlServer.xml
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.csproj.AssemblyReference.cache
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.csproj.CoreCompileInputs.cache
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinim.A97C52CA.Up2Date
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.dll
+D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\obj\Debug\CadMinimarke.pdb

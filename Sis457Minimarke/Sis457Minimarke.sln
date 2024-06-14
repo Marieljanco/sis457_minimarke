@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnMinimarke", "ClnMinimark
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadMinimarke", "CadMinimarke\CadMinimarke.csproj", "{7243EE4A-BAE2-446D-A341-E8322A50066C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpMinimarke", "CpMinimarke\CpMinimarke.csproj", "{2166ADA1-7064-499A-81F6-993787DAEE72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpMinimarke", "CpMinimarke\CpMinimarke.csproj", "{0284EE22-C7CC-4009-BA45-A42FF5B41147}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{7243EE4A-BAE2-446D-A341-E8322A50066C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7243EE4A-BAE2-446D-A341-E8322A50066C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7243EE4A-BAE2-446D-A341-E8322A50066C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2166ADA1-7064-499A-81F6-993787DAEE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2166ADA1-7064-499A-81F6-993787DAEE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2166ADA1-7064-499A-81F6-993787DAEE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2166ADA1-7064-499A-81F6-993787DAEE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0284EE22-C7CC-4009-BA45-A42FF5B41147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0284EE22-C7CC-4009-BA45-A42FF5B41147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0284EE22-C7CC-4009-BA45-A42FF5B41147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0284EE22-C7CC-4009-BA45-A42FF5B41147}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
