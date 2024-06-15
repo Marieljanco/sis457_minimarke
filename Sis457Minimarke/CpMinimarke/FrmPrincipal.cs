@@ -16,6 +16,7 @@ namespace CpMinimarke
         public FrmPrincipal(FrmAutenticacion frmAutenticacion)
         {
             InitializeComponent();
+            this.frmAutenticacion = frmAutenticacion;
         }
 
         private void btnCaProductos_Click(object sender, EventArgs e)
