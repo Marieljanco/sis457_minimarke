@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj": {}
+  },
+  "projects": {
+    "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj",
+        "projectName": "CadMinimarke",
+        "projectPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj",
+        "projectName": "ClnMinimarke",
+        "projectPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj": {
+                "projectPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj",
+        "projectName": "CpMinimarke",
+        "projectPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\CpMinimarke.csproj",
+        "packagesPath": "C:\\Users\\ivan\\.nuget\\packages\\",
+        "outputPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj": {
+                "projectPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CadMinimarke\\CadMinimarke.csproj"
+              },
+              "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj": {
+                "projectPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\ClnMinimarke\\ClnMinimarke.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.0-preview2-24180-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,4 +1,4 @@
-﻿// La generación de código T4 está habilitada para el modelo 'D:\sis\sis457_minimarke\Sis457Minimarke\CadMinimarke\Modelo.edmx'. 
+﻿// La generación de código T4 está habilitada para el modelo 'D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CadMinimarke\Modelo.edmx'. 
 // Para habilitar la generación de código heredada, cambie el valor de la propiedad del diseñador 'Estrategia de generación de código'
 // por 'ObjectContext heredado'. Esta propiedad está disponible en la ventana Propiedades cuando se abre
 // el modelo en el diseñador.
