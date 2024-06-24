@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0284EE22-C7CC-4009-BA45-A42FF5B41147}|CpMinimarke\\CpMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\cpminimarke\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0284EE22-C7CC-4009-BA45-A42FF5B41147}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2F4E1972-62F7-48AF-960F-07360EE4BA3B}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\webminimarke.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F4E1972-62F7-48AF-960F-07360EE4BA3B}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\webminimarke.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0284EE22-C7CC-4009-BA45-A42FF5B41147}|CpMinimarke\\CpMinimarke.csproj|D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\cpminimarke\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0284EE22-C7CC-4009-BA45-A42FF5B41147}|CpMinimarke\\CpMinimarke.csproj|solutionrelative:cpminimarke\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F4E1972-62F7-48AF-960F-07360EE4BA3B}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F4E1972-62F7-48AF-960F-07360EE4BA3B}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "CpMinimarke\\FrmPrincipal.cs",
-              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\FrmPrincipal.cs",
-              "RelativeToolTip": "CpMinimarke\\FrmPrincipal.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T11:47:49.334Z",
+              "DocumentIndex": 0,
+              "Title": "WebMinimarke",
+              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\WebMinimarke.csproj",
+              "RelativeDocumentMoniker": "WebMinimarke\\WebMinimarke.csproj",
+              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\WebMinimarke.csproj",
+              "RelativeToolTip": "WebMinimarke\\WebMinimarke.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T19:42:43.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "CpMinimarke\\FrmPrincipal.cs",
-              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\CpMinimarke\\FrmPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CpMinimarke\\FrmPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T01:46:32.444Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\appsettings.json",
+              "RelativeDocumentMoniker": "WebMinimarke\\appsettings.json",
+              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\appsettings.json",
+              "RelativeToolTip": "WebMinimarke\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T18:54:22.159Z",
+              "EditorCaption": ""
             }
           ]
         }
