@@ -1,0 +1,42 @@
+﻿@model WebMinimarke.Models.Cliente
+
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Eliminar</h1>
+
+<h3>¿Seguro de querer eliminar el cliente?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">Cedula Identidad</dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CedulaIdentidad)
+        </dd>
+        <dt class = "col-sm-2">Nombres</dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombres)
+        </dd>
+        <dt class = "col-sm-2">Primer Apellido</dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PrimerApellido)
+        </dd>
+        <dt class = "col-sm-2">Segundo Apellido</dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SegundoApellido)
+        </dd>
+        <dt class = "col-sm-2">FechaRegistro</dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FechaRegistro)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-action="Index">Volver a la Lista</a>
+
+    </form>
+</div>
