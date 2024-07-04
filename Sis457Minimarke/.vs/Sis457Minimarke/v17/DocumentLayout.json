@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,28 +19,12 @@
       "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|d:\\copia de repositorio 457\\sis457_minimarke\\sis457minimarke\\webminimarke\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16008D95-469A-4818-BD21-BBAF495BE761}|WebMinimarke\\WebMinimarke.csproj|solutionrelative:webminimarke\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebMinimarke\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebMinimarke\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T21:31:21.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Productos\\Index.cshtml",
               "RelativeDocumentMoniker": "WebMinimarke\\Views\\Productos\\Index.cshtml",
@@ -71,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Productos\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebMinimarke\\Views\\Productos\\Edit.cshtml",
@@ -79,12 +72,11 @@
               "RelativeToolTip": "WebMinimarke\\Views\\Productos\\Edit.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:48:15.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T20:48:15.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Productos\\Details.cshtml",
               "RelativeDocumentMoniker": "WebMinimarke\\Views\\Productos\\Details.cshtml",
@@ -92,12 +84,11 @@
               "RelativeToolTip": "WebMinimarke\\Views\\Productos\\Details.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:48:14.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T20:48:14.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Productos\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebMinimarke\\Views\\Productos\\Delete.cshtml",
@@ -105,12 +96,11 @@
               "RelativeToolTip": "WebMinimarke\\Views\\Productos\\Delete.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:48:12.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T20:48:12.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Productos\\Create.cshtml",
               "RelativeDocumentMoniker": "WebMinimarke\\Views\\Productos\\Create.cshtml",
@@ -118,92 +108,7 @@
               "RelativeToolTip": "WebMinimarke\\Views\\Productos\\Create.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:48:07.835Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebMinimarke\\Views\\Clientes\\Index.cshtml",
-              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "WebMinimarke\\Views\\Clientes\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:47:37.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebMinimarke\\Views\\Clientes\\Edit.cshtml",
-              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Edit.cshtml",
-              "RelativeToolTip": "WebMinimarke\\Views\\Clientes\\Edit.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:47:35.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebMinimarke\\Views\\Clientes\\Details.cshtml",
-              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Details.cshtml",
-              "RelativeToolTip": "WebMinimarke\\Views\\Clientes\\Details.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:47:33.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebMinimarke\\Views\\Clientes\\Delete.cshtml",
-              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Delete.cshtml",
-              "RelativeToolTip": "WebMinimarke\\Views\\Clientes\\Delete.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:47:31.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebMinimarke\\Views\\Clientes\\Create.cshtml",
-              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Views\\Clientes\\Create.cshtml",
-              "RelativeToolTip": "WebMinimarke\\Views\\Clientes\\Create.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:47:29.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "WebMinimarke\\Models\\Cliente.cs",
-              "ToolTip": "D:\\copia de repositorio 457\\sis457_minimarke\\Sis457Minimarke\\WebMinimarke\\Models\\Cliente.cs",
-              "RelativeToolTip": "WebMinimarke\\Models\\Cliente.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:44:44.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T20:48:07.835Z"
             }
           ]
         }
