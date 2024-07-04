@@ -21,7 +21,7 @@ namespace WebMinimarke.Controllers
         // GET: Proveedores
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Proveedors.ToListAsync());
+            return View(await _context.Proveedors.Where(x => x.Estado != -1).ToListAsync());
         }
 
         // GET: Proveedores/Details/5
@@ -53,10 +53,13 @@ namespace WebMinimarke.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nombre,NombreEmpresa,Direccion,Celular,CorreoElectronico,UsuarioRegistro,FechaRegistro,Estado")] Proveedor proveedor)
+        public async Task<IActionResult> Create([Bind("Id,Nombre,NombreEmpresa,Direccion,Celular,CorreoElectronico")] Proveedor proveedor)
         {
             if (ModelState.IsValid)
             {
+                proveedor.UsuarioRegistro = "sis457";
+                proveedor.FechaRegistro = DateTime.Now;
+                proveedor.Estado = 1;
                 _context.Add(proveedor);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -141,10 +144,11 @@ namespace WebMinimarke.Controllers
             var proveedor = await _context.Proveedors.FindAsync(id);
             if (proveedor != null)
             {
-                _context.Proveedors.Remove(proveedor);
+                proveedor.Estado = -1;
+                await _context.SaveChangesAsync();
+                //_context.Proveedors.Remove(proveedor);
             }
 
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 

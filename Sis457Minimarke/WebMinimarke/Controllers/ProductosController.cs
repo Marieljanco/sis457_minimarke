@@ -57,7 +57,7 @@ namespace WebMinimarke.Controllers
         {
             if (!string.IsNullOrEmpty(producto.Codigo) && !string.IsNullOrEmpty(producto.Descripcion))
             {
-                producto.UsuarioRegistro = "sis457";
+                producto.UsuarioRegistro = User.Identity.Name;
                 producto.FechaRegistro = DateTime.Now;
                 producto.Estado = 1;
                 _context.Add(producto);
@@ -99,6 +99,7 @@ namespace WebMinimarke.Controllers
             {
                 try
                 {
+                    producto.UsuarioRegistro = User.Identity.Name;
                     _context.Update(producto);
                     await _context.SaveChangesAsync();
                 }
@@ -145,6 +146,7 @@ namespace WebMinimarke.Controllers
             if (producto != null)
             {
                 producto.Estado = -1;
+                producto.UsuarioRegistro = User.Identity.Name;
                 await _context.SaveChangesAsync();
                 //_context.Productos.Remove(producto);
             }

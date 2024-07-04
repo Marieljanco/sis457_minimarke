@@ -130,6 +130,7 @@ AS
 EXEC paProductoListar 'Tang';
 
 -- dml
+
 -- PRODUCTO
 INSERT INTO Producto (codigo, nombre, descripcion, categoria, precioVenta, idProveedor) 
 VALUES 
@@ -168,3 +169,7 @@ VALUES ('María Gómez', 'Tech Solutions', '456 Avenida Principal, Ciudad', 9123
 
 INSERT INTO Proveedor (nombre, nombreEmpresa, direccion, celular, correoElectronico) 
 VALUES ('Carlos Ruiz', 'Servicios XYZ', '789 Plaza Central, Ciudad', 9345678901, 'carlos.ruiz@serviciosxyz.com');
+
+-- INVENTARIO
+INSERT INTO Inventario (idProducto, idProveedor, idEmpleado, cantidadStock)
+VALUES (1, 1, 1, 50);

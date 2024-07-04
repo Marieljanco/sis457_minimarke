@@ -21,7 +21,9 @@ namespace WebMinimarke.Controllers
         // GET: Inventarios
         public async Task<IActionResult> Index()
         {
-            var labMinimarkeContext = _context.Inventarios.Include(i => i.IdEmpleadoNavigation).Include(i => i.IdProductoNavigation);
+            var labMinimarkeContext = _context.Inventarios
+                .Include(i => i.IdEmpleadoNavigation)
+                .Include(i => i.IdProductoNavigation);
             return View(await labMinimarkeContext.ToListAsync());
         }
 
@@ -60,7 +62,7 @@ namespace WebMinimarke.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,IdProducto,IdProveedor,IdEmpleado,CantidadStock,FechaUltimaRepocision")] Inventario inventario)
         {
-            if (ModelState.IsValid)
+            if (inventario.CantidadStock > 0)
             {
                 _context.Add(inventario);
                 await _context.SaveChangesAsync();

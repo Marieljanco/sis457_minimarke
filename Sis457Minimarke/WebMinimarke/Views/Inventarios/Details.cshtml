@@ -1,49 +1,39 @@
 ﻿@model WebMinimarke.Models.Inventario
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Detalle inventario";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Details</h1>
+<h1>Detalle inventario</h1>
 
 <div>
     <h4>Inventario</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IdProveedor)
-        </dt>
+        <dt class = "col-sm-2">IdProveedor</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.IdProveedor)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CantidadStock)
-        </dt>
+        <dt class = "col-sm-2">Cantidad Stock</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.CantidadStock)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.FechaUltimaRepocision)
-        </dt>
+        <dt class = "col-sm-2">Fecha Ultima Reposición</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.FechaUltimaRepocision)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IdEmpleadoNavigation)
-        </dt>
+        <dt class = "col-sm-2">IdEmpleado Nav</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.IdEmpleadoNavigation.Id)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IdProductoNavigation)
-        </dt>
+        <dt class = "col-sm-2">IdProducto Nav</dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.IdProductoNavigation.Id)
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Volver a la lista</a>
 </div>
