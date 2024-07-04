@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMinimarke")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e79eb2001e796a19a477dc9022c8ef3c74f8bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec6217944123611d7513c3bef82c6ad9aba6af6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMinimarke")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMinimarke")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

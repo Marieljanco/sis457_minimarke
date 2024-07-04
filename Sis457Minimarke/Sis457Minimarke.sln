@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadMinimarke", "CadMinimark
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpMinimarke", "CpMinimarke\CpMinimarke.csproj", "{0284EE22-C7CC-4009-BA45-A42FF5B41147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMinimarke", "WebMinimarke\WebMinimarke.csproj", "{2F4E1972-62F7-48AF-960F-07360EE4BA3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMinimarke", "WebMinimarke\WebMinimarke.csproj", "{16008D95-469A-4818-BD21-BBAF495BE761}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{0284EE22-C7CC-4009-BA45-A42FF5B41147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0284EE22-C7CC-4009-BA45-A42FF5B41147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0284EE22-C7CC-4009-BA45-A42FF5B41147}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2F4E1972-62F7-48AF-960F-07360EE4BA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F4E1972-62F7-48AF-960F-07360EE4BA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F4E1972-62F7-48AF-960F-07360EE4BA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F4E1972-62F7-48AF-960F-07360EE4BA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16008D95-469A-4818-BD21-BBAF495BE761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16008D95-469A-4818-BD21-BBAF495BE761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16008D95-469A-4818-BD21-BBAF495BE761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16008D95-469A-4818-BD21-BBAF495BE761}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

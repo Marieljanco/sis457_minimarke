@@ -130,6 +130,7 @@ AS
 EXEC paProductoListar 'Tang';
 
 -- dml
+-- PRODUCTO
 INSERT INTO Producto (codigo, nombre, descripcion, categoria, precioVenta, idProveedor) 
 VALUES 
 ('P001', 'Tang', 'Jugo en polvo', 'Bebidas', 10.99, 1);
@@ -142,7 +143,7 @@ INSERT INTO Producto (codigo, nombre, descripcion, categoria, precioVenta, idPro
 VALUES 
 ('P003', 'Leche Pil', 'descremada', 'Lácteos', 20.50, 2);
 
--- Insertar datos para el segundo empleado
+-- EMPLEADO
 INSERT INTO Empleado (cedulaIdentidad, nombres, primerApellido, segundoApellido, direccion, cargo, celular, correoElectronico, salario, fechaContratacion) 
 VALUES 
 ('1234567890', 'Juan', 'Pérez','Paraná', 'Calle Principal 123', 'Gerente', 1234567890, 'juan@example.com', '5000 USD', '2024-01-15');
@@ -151,8 +152,19 @@ INSERT INTO Empleado (cedulaIdentidad, nombres, primerApellido, segundoApellido,
 VALUES 
 ('5678901234', 'Carlos', 'Rodríguez', 'Mar', 'Calle Secundaria 789', 'Cajero', 5678901234, 'carlos@example.com', '2500 USD', '2024-03-10');
 
+-- USUARIO
 INSERT INTO Usuario(usuario, clave, idEmpleado)
 VALUES('noel', 'i0hcoO/nssY6WOs9pOp5Xw==', 1);
 
 INSERT INTO Usuario(usuario, clave, idEmpleado)
 VALUES('jperez', 'i0hcoO/nssY6WOs9pOp5Xw==', 2);
+
+-- PROVEEDOR
+INSERT INTO Proveedor (nombre, nombreEmpresa, direccion, celular, correoElectronico) 
+VALUES ('Juan Pérez', 'Empresa ABC', '123 Calle Falsa, Ciudad', 9876543210, 'juan.perez@empresaabc.com');
+
+INSERT INTO Proveedor (nombre, nombreEmpresa, direccion, celular, correoElectronico) 
+VALUES ('María Gómez', 'Tech Solutions', '456 Avenida Principal, Ciudad', 9123456789, 'maria.gomez@techsolutions.com');
+
+INSERT INTO Proveedor (nombre, nombreEmpresa, direccion, celular, correoElectronico) 
+VALUES ('Carlos Ruiz', 'Servicios XYZ', '789 Plaza Central, Ciudad', 9345678901, 'carlos.ruiz@serviciosxyz.com');

@@ -18,10 +18,6 @@ D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Deb
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\EntityFramework.xml
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\EntityFramework.SqlServer.xml
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\obj\Debug\CpMinima.AAE20EB0.Up2Date
-D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.C1Report.4.dll
-D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.4.dll
-D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.BarCode.4.dll
-D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.C1Ribbon.4.dll
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.C1Report.4.xml
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.4.xml
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.BarCode.4.xml
@@ -30,7 +26,5 @@ D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\obj\Deb
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\obj\Debug\CpMinimarke.FrmPrincipal.resources
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\obj\Debug\CpMinimarke.FrmProducto.resources
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\obj\Debug\CpMinimarke.exe.licenses
-D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.C1Command.4.dll
-D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.C1Input.4.dll
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.C1Command.4.xml
 D:\copia de repositorio 457\sis457_minimarke\Sis457Minimarke\CpMinimarke\bin\Debug\C1.Win.C1Input.4.xml

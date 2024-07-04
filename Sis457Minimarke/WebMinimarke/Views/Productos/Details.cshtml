@@ -1,0 +1,51 @@
+﻿@model WebMinimarke.Models.Producto
+
+@{
+    ViewData["Title"] = "Detalle Producto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Detalle Producto</h1>
+
+<div>
+    <h4>Producto</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Codigo</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Codigo)
+        </dd>
+        <dt class="col-sm-2">Nombre</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class="col-sm-2">Descripcion</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class="col-sm-2">Categoria</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Categoria)
+        </dd>
+        <dt class="col-sm-2">PrecioVenta</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PrecioVenta)
+        </dd>
+        <dt class="col-sm-2">Usuario Registro</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UsuarioRegistro)
+        </dd>
+        <dt class="col-sm-2">Fecha de Registro</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaRegistro)
+        </dd>
+        <dt class="col-sm-2">Estado</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Volver a la lista</a>
+</div>
